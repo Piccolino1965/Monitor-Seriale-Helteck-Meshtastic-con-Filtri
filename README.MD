@@ -29,5 +29,5 @@ source venv/bin/activate
 # Installa 
 pip install pyserial
 
-#lancia
+# Lancia
 python meshtastic_monitor.py
