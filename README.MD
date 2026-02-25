@@ -32,4 +32,4 @@ source venv/bin/activate
 pip install pyserial
 
 # Lancia
-python meshtastic_monitor.py
+python serial_monitor_01.py
