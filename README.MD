@@ -17,12 +17,17 @@ Un monitor seriale progettato specificamente per dispositivi **Meshtastic**. Vis
 - Python 3.6 o superiore
 - Porta seriale USB/COM disponibile
 
+# Crea ambiente virtuale - consigliato
 python -m venv venv
-# Su Windows:
+
+** Su windows
 venv\Scripts\activate
+
 # Su Linux/Mac:
 source venv/bin/activate
 
-pip install -r requirements.txt
+# Installa 
+pip install pyserial
 
+#lancia
 python meshtastic_monitor.py
