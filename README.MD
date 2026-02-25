@@ -20,10 +20,10 @@ Un monitor seriale progettato specificamente per dispositivi **Meshtastic**. Vis
 # Crea ambiente virtuale - consigliato
 python -m venv venv
 
-**Su windows
+**Su windows**
 venv\Scripts\activate
 
-**Su Linux/Mac:
+**Su Linux/Mac:**
 source venv/bin/activate
 
 # Installa 
