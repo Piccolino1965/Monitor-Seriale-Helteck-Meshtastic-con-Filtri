@@ -12,6 +12,8 @@ Un monitor seriale progettato specificamente per dispositivi **Meshtastic**. Vis
 -  **Evidenziazione** - Righe con match evidenziate in rosso nel log principale
 -  **Multi-threading** - Interfaccia sempre reattiva
 
+![Screenshot dell'applicazione](screenshot.png)
+
 ##  Requisiti di Sistema
 
 - Python 3.6 o superiore
