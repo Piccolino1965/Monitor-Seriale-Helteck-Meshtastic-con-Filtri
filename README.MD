@@ -1,4 +1,4 @@
-# Meshtastic Packet Monitor 🎯
+# Meshtastic Packet Monitor 
 
 Un monitor seriale progettato specificamente per dispositivi **Meshtastic**. Visualizza e filtra i pacchetti in tempo reale con evidenziazione delle parole chiave e conteggio dei match.
 
